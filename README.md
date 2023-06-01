@@ -1,16 +1,6 @@
-# ui_project
+# UI Challenge with Flutter
 
-A new Flutter project.
+I have tried to make a professional UI design.I simulated a UI/UX Template from Figma.I used a lot of nested widgets, paddings and style forms.
+Here is my design:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="392" alt="Ekran Resmi 2023-06-02 01 48 36" src="https://github.com/ibrahimmbyrrm/Flutter-UI-Challenge/assets/96320314/5aacd94b-06fd-48a7-b287-aa0312447cac">
